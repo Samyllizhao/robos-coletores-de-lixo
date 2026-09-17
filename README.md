@@ -16,5 +16,3 @@ Este repositório contém a implementação em Python de um simulador de ambient
 * `Murilo Gandra de Carvalho Martins`
 * `Pedro Lucas Monteiro`
 * `Samylli Kalei Silva Zhao`
-```bash
-python Agente_Baseado_em_Utilidade.py

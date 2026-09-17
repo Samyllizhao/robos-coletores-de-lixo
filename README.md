@@ -1,6 +1,6 @@
 #  Robôs Coletores de Lixo - Inteligência Artificial
 
-Atividade Prática 1 da disciplina de Inteligência Artificial, ministrada pelo Prof. Me. Nerval de Jesus Santos Junior. 
+Atividade de Inteligência Artificial, ministrada pelo Prof. Me. Nerval de Jesus Santos Junior. 
 
 Este repositório contém a implementação em Python de um simulador de ambiente (Matriz 20x20) e quatro diferentes arquiteturas de agentes autônomos projetados para coletar lixos orgânicos e recicláveis, otimizando pontuação e tempo.
 
